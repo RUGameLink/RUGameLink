@@ -10,4 +10,8 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=red)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=wtite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
+![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg)
 ## Follow Me
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white?link=http://left&link=https://www.youtube.com/channel/UCKf8I7pBPCvK64v2c6nfUXQ)
+![VK](https://img.shields.io/badge/VK-597da3?style=for-the-badge&logo=vk&logoColor=white?link=http://left&link=https://vk.com/sad_sm)
