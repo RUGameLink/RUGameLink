@@ -18,3 +18,8 @@
 
 ## Support the author
 [![Header](https://github.com/RUGameLink/RUGameLink/blob/main/assets/boosty.png)](https://boosty.to/sadsm)
+
+## Statistics
+[![Sad_Smiley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUGameLink&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUGameLink&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
