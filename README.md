@@ -17,4 +17,4 @@
 [![VK](https://img.shields.io/badge/VK-597da3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sad_sm)
 
 ## Support the author
-[![Header](https://github.com/RUGameLink/RUGameLink/blob/main/assets/socmedia3.png)](https://boosty.to/sadsm)
+[![Header](https://github.com/RUGameLink/RUGameLink/blob/main/assets/boosty.png)](https://boosty.to/sadsm)
