@@ -15,3 +15,6 @@
 ## Follow Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKf8I7pBPCvK64v2c6nfUXQ)
 [![VK](https://img.shields.io/badge/VK-597da3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sad_sm)
+
+## Support the author
+[![Header](https://github.com/RUGameLink/RUGameLink/blob/main/assets/socmedia3.png)](https://boosty.to/sadsm)
