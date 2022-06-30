@@ -2,7 +2,7 @@
 
 ## About me
 Студент ИрНИТУ. Многое ли это обо мне говорит - не знаю. Шарпист, работал с Java и JavaFX, полюбил с недавних пор Kotlin. Презираю SQL и Python (не даются мне они...))
-В свободное время пробую себя в работе с PhotoShop и монтажиком роликов.
+В свободное время пробую себя в работе с PhotoShop и монтажиком роликов. 
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
