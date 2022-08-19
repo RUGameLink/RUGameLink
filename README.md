@@ -23,3 +23,5 @@
 [![Sad_Smiley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUGameLink&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUGameLink&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=RUGameLink&name=true&theme=dark)
