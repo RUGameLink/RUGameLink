@@ -20,6 +20,7 @@
 [![Header](https://github.com/RUGameLink/RUGameLink/blob/main/assets/boosty.png)](https://boosty.to/sadsm)
 
 ## Statistics
+<!--START_SECTION:activity-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUGameLink&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUGameLink&theme=tokyonight)
@@ -31,5 +32,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUGameLink&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RUGameLink&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--END_SECTION:activity-->
 
 ![Codewars](https://github.r2v.ch/codewars?user=RUGameLink&name=true&theme=dark)
