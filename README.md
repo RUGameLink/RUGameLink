@@ -21,31 +21,17 @@
 
 ## Statistics
 <!--START_SECTION:activity-->
-<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUGameLink&theme=tokyonight)
-</p>
 
-<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUGameLink&theme=tokyonight)
-</p>
 
-<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUGameLink&theme=tokyonight)
-</p>
 
-<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUGameLink&theme=tokyonight)
-</p>
 
-<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUGameLink&theme=tokyonight)
-</p>
 
-<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=RUGameLink&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
-</p>
 
-<p align="center">
 ![Codewars](https://github.r2v.ch/codewars?user=RUGameLink&name=true&theme=dark)
-</p>
